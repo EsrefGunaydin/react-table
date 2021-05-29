@@ -46,6 +46,7 @@ const SingleForm = ({ counter, styles, inputStyles, deleteRow, editRow }) => {
           </td>
         </tr>
       </form>
+      <p>Message</p>
     </div>
   );
 };
